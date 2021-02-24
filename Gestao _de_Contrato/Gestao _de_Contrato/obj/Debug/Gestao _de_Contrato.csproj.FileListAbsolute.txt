@@ -1,0 +1,33 @@
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao__de_Contrato.Form1.resources
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao__de_Contrato.Properties.Resources.resources
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao _de_Contrato.csproj.GenerateResource.cache
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao _de_Contrato.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\Gestao _de_Contrato.exe.config
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\Gestao _de_Contrato.exe
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\Gestao _de_Contrato.pdb
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao _de_Contrato.exe
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao _de_Contrato.pdb
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao__de_Contrato.Formes.Corporacao.Index.resources
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao__de_Contrato.Formes.Contrato.IndexContratoForm.resources
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao__de_Contrato.Formes.Contrato.FormBuscaEmpresa.resources
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao__de_Contrato.Formes.IndexForm.resources
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao__de_Contrato.Formes.Contrato.ListarContratosForms.resources
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\System.Web.Helpers.dll
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\System.Web.Razor.dll
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\System.Web.WebPages.dll
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\System.Web.Helpers.xml
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\System.Web.Razor.xml
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\System.Web.WebPages.xml
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao _de_Contrato.csproj.CopyComplete
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\EntityFramework.dll
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\EntityFramework.xml
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao__de_Contrato.Migrations.ConfiguracaoDasTabelas.resources
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao__de_Contrato.Formes.Contrato.DetalheContratoForm.resources
+C:\Users\marcu\source\repos\Gestao _de_Contrato\Gestao _de_Contrato\obj\Debug\Gestao _de_Contrato.csprojAssemblyReference.cache
